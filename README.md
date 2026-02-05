@@ -1,5 +1,5 @@
-# ⛰️ Uçurum Yürüyüşü (CliffWalking)
+# ⛰️ Cliff Walking
 
-Bu projede, pekiştirmeli öğrenme modellerini eğitmek için Gymnasium ve Stable Baselines3 kullanımının temel yönlerini öğreneceksiniz. Bu proje, ortamları kurma, modelleri eğitme, performanslarını görselleştirme ve son olarak eğitilmiş bir modeli bir ortamla etkileşim kurmak için kullanma konularında bütüncül bir anlayış kazandırmanız için tasarlanmıştır.
+In this project, you will learn the fundamental aspects of using Gymnasium and Stable Baselines3 to train reinforcement learning models. This project is designed to give you a holistic understanding of setting up environments, training models, visualizing their performance, and finally using a trained model to interact with an environment.
 
-🚧 Başlamadan önce: ilk projede açıklandığı gibi gerekli paketleri kurduğunuzdan emin olun
+🚧 Before you begin: Make sure you have installed the necessary packages as described in the first project.
